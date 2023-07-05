@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/proxyseller-test-task/static/css/main.278b0752.css",
-    "main.js": "/proxyseller-test-task/static/js/main.a8c29ae8.js",
+    "main.js": "/proxyseller-test-task/static/js/main.2348a4cd.js",
     "static/js/787.a88d0742.chunk.js": "/proxyseller-test-task/static/js/787.a88d0742.chunk.js",
     "index.html": "/proxyseller-test-task/index.html",
     "static/media/search-icon.svg": "/proxyseller-test-task/static/media/search-icon.2e07e401b8c02feb13fdfbfe5f075ee9.svg",
     "static/media/back-icon.svg": "/proxyseller-test-task/static/media/back-icon.e3621ad0dcc6ad9151c0e9dfc49e2f41.svg",
     "main.278b0752.css.map": "/proxyseller-test-task/static/css/main.278b0752.css.map",
-    "main.a8c29ae8.js.map": "/proxyseller-test-task/static/js/main.a8c29ae8.js.map",
+    "main.2348a4cd.js.map": "/proxyseller-test-task/static/js/main.2348a4cd.js.map",
     "787.a88d0742.chunk.js.map": "/proxyseller-test-task/static/js/787.a88d0742.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.278b0752.css",
-    "static/js/main.a8c29ae8.js"
+    "static/js/main.2348a4cd.js"
   ]
 }
